@@ -1,0 +1,11 @@
+/ShoppingCardCA/App_Data/packages
+/ShoppingCardCA/App_Data/TEMP
+/ShoppingCardCA/App_Data/umbraco.config
+/ShoppingCardCA/App_Data/cache
+/ShoppingCardCA/App_Data/Logs
+/ShoppingCardCA/App_Data/NuGetBackup
+/ShoppingCardCA/bin
+/ShoppingCardCA/obj
+/packages
+/ShoppingCardCA/Umbraco_Client
+/ShoppingCardCA/Umbraco
